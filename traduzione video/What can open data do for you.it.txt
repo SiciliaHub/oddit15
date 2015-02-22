@@ -1,30 +1,21 @@
 Ogni giorno grandi quantità di dati aperti vengono utilizzati per cambiare il modo in cui viviamo la nostra vita. 
-
-
 Questi dati hanno il potere di migliorare l'istruzione, ci permettono di essere più sani e più produttivi
-
 il potere di costruire città migliori e un mondo migliore.
 
-Dalla baia di San Francisco alle spiagge di Barcellona, la app della mappa della città utilizza i dati aperti sul trasporto per rendere più semplici gli spostamenti quotidiani delle persone, ridurre il traffico e migliorare la mobilità; e ciò significa che Maria può tornare a casa rapidamente dal lavoro e avere ulteriore tempo per incontrare i suoi amici
+Dalla baia di San Francisco alle spiagge di Barcellona, la app della mappa della città utilizza i dati aperti sul trasporto per rendere più semplici gli spostamenti quotidiani delle persone, ridurre il traffico e migliorare la mobilità; e ciò significa che Maria può tornare a casa rapidamente dal lavoro e avere ulteriore tempo per incontrare i suoi amici.
 
 A Singapore Andy può monitorare i casi di febbre dengue in tutta la città, e con l'aiuto della comunità si adopera per contenere la malattia.
-
 Questo aiuta a mantenere sana la sua famiglia e ha anche consentito servizi sanitari più efficienti, e medici e infermieri hanno più tempo per affrontare le emergenze.
 
 Utilizzando i dati aperti il governo del Burkina Faso può confrontare e valutare le scuole locali considerando le performance e i servizi
- 
 Questo aiuta il governo a destinare risorse alle scuole che ne hanno maggiormente bisogno.
  
 In Nepal i terremoti sono eventi pericolosi tipici.
- 
 Utilizzando i dati aperti, l'integrità strutturale delle scuole e dei centri sanitari sono catalogati.
-
 Così urbanisti come Bichat possono salvare vite ristrutturando edifici ad alto rischio, prima che si verifichino futuri disastri.
  
 A Qingdao il nuovo portale WOW consente la collaborazione tra cittadini e amministrazioni pubbliche.
-
 Quindi, Kahn non solo può trovare istantaneamente tutte le informazioni sulla città, ma può aiutare gli urbanisti a creare servizi migliori e una migliore qualità della vita per tutti.
 
 I dati aperti sono dati che vengono messi a disposizione da organizzazioni, imprese e individui, a chiunque voglia accedervi, utilizzarli e condividerli.
-
 Essi hanno il potere di trasformare e creare un futuro migliore per tutti.
