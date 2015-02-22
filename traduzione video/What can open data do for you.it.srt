@@ -1,0 +1,163 @@
+1
+00:00:00,786 --> 00:00:02,933
+Ogni giorno grandi quantità di dati aperti
+
+2
+00:00:02,933 --> 00:00:05,440
+vengono utilizzati per cambiare il modo in cui viviamo la nostra vita.
+
+3
+00:00:05,950 --> 00:00:08,210
+Questi dati offrono l'opportunità di migliorare l'istruzione
+
+4
+00:00:08,568 --> 00:00:10,138
+ci rendono più sani
+
+5
+00:00:10,238 --> 00:00:11,318
+e più produttivi
+
+6
+00:00:11,428 --> 00:00:14,428
+la capacità di costruire città migliori e un mondo migliore.
+
+7
+00:00:16,438 --> 00:00:19,290
+Dalla baia di San Francisco alle spiagge di Barcellona
+
+8
+00:00:19,360 --> 00:00:22,142
+la app della mappa della città utilizza i dati aperti sul trasporto
+
+9
+00:00:22,522 --> 00:00:24,230
+per rendere più semplici gli spostamenti quotidiani delle persone
+
+10
+00:00:24,908 --> 00:00:27,646
+ridurre il traffico e migliorare la mobilità.
+
+11
+00:00:28,128 --> 00:00:30,998
+e ciò significa che Maria può tornare a casa rapidamente dal lavoro
+
+12
+00:00:31,209 --> 00:00:33,619
+e avere ulteriore tempo per incontrare i suoi amici.
+
+13
+00:00:33,894 --> 00:00:38,194
+A Singapore Andy può monitorare i casi di febbre dengue in tutta la città
+
+14
+00:00:38,360 --> 00:00:39,609
+e con l'aiuto della comunità
+
+15
+00:00:39,609 --> 00:00:41,689
+si adopera per contenere la malattia.
+
+16
+00:00:42,028 --> 00:00:43,828
+Questo aiuta a mantenere sana la sua famiglia
+
+17
+00:00:43,838 --> 00:00:46,818
+e ha anche consentito servizi sanitari più efficienti
+
+18
+00:00:46,855 --> 00:00:51,585
+e medici e infermieri hanno più tempo per affrontare le emergenze.
+
+19
+00:00:51,962 --> 00:00:55,032
+Utilizzando i dati aperti il governo del Burkina Faso
+
+20
+00:00:55,329 --> 00:00:57,689
+può confrontare e valutare le scuole locali
+
+21
+00:00:57,758 --> 00:01:00,648
+considerando le performance e i servizi.
+
+22
+00:01:00,742 --> 00:01:01,832
+Ciò aiuta il governo
+
+23
+00:01:01,832 --> 00:01:03,562
+a destinare risorse alle scuole
+
+24
+00:01:03,569 --> 00:01:04,859
+che ne hanno maggiormente bisogno.
+
+25
+00:01:05,442 --> 00:01:08,872
+In Nepal i terremoti sono eventi pericolosi tipici.
+
+26
+00:01:08,872 --> 00:01:10,032
+Utilizzando i dati aperti,
+
+27
+00:01:10,078 --> 00:01:12,028
+l'integrità strutturale delle scuole
+
+28
+00:01:12,095 --> 00:01:14,565
+e dei centri sanitari sono catalogati.
+
+29
+00:01:14,925 --> 00:01:17,805
+Così urbanisti come Bichat possono salvare vite
+
+30
+00:01:17,985 --> 00:01:19,595
+ristrutturando edifici ad alto rischio,
+
+31
+00:01:19,629 --> 00:01:22,179
+prima che si verifichino futuri disastri.
+
+32
+00:01:22,187 --> 00:01:24,307
+A Qingdao il nuovo portale WOW
+
+33
+00:01:24,350 --> 00:01:28,050
+consente la collaborazione tra cittadini e amministrazioni pubbliche.
+
+34
+00:01:28,050 --> 00:01:30,070
+Quindi, Kahn non solo può trovare istantaneamente
+
+35
+00:01:30,070 --> 00:01:31,450
+tutte le informazioni sulla città,
+
+36
+00:01:31,450 --> 00:01:34,440
+ma può aiutare gli urbanisti a creare servizi migliori
+
+37
+00:01:34,450 --> 00:01:37,210
+e una migliore qualità della vita per tutti.
+
+38
+00:01:37,420 --> 00:01:39,620
+I dati aperti sono dati che vengono messi a disposizione
+
+39
+00:01:39,620 --> 00:01:42,700
+da organizzazioni, imprese e individui,
+
+40
+00:01:42,700 --> 00:01:46,160
+a chiunque voglia accedervi, utilizzarli e condividerli.
+
+41
+00:01:46,341 --> 00:01:51,131
+Hanno il potere di trasformare e creare un futuro migliore per tutti.
